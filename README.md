@@ -1,4 +1,5 @@
 # Lead Enrichment API
+![CI](https://github.com/BismaNwaz/lead-enrichment-api/actions/workflows/deploy.yml/badge.svg)
 
 An AI-powered backend service that turns a company website URL into structured, sales-ready lead data — industry classification, a summary, products/services, likely decision-maker titles, and contact info — using LLM-based extraction.
 
